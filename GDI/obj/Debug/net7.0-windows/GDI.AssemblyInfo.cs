@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5dad5576ffe6a1cae2af93dc903ff19013f101b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
